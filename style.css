@@ -443,6 +443,9 @@ footer p{
         border: none;
     }
 }
+.no-scroll{
+    overflow: hidden;
+}
 @media(max-width:960px){
     .text-xl{
         font-size: 30px;
